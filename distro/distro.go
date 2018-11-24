@@ -10,7 +10,7 @@ package distro
 import (
 	"os"
 
-	"github.com/kless/shutil/shconf"
+	"github.com/natedat/shutil/shconf"
 )
 
 // Distro represents a distribution of Linux system.

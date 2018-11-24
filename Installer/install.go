@@ -18,7 +18,7 @@ import (
 	"path"
 	"runtime"
 
-	"github.com/kless/sysuser"
+	"github.com/natedat/sysuser"
 )
 
 var (

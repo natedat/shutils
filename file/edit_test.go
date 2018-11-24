@@ -10,7 +10,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kless/shutil/sh"
+	"github.com/natedat/shutil/sh"
 )
 
 func TestCreate(t *testing.T) {

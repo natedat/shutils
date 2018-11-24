@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	. "github.com/kless/shutil"
+	. "github.com/natedat/shutil"
 )
 
 // == Errors

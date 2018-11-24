@@ -13,7 +13,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/kless/term"
+	"github.com/natedat/term"
 )
 
 // TODO: Check command "plymouth" in Mac; whether exists there and the arguments

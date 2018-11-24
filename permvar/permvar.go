@@ -13,9 +13,9 @@ import (
 	"os"
 	"path"
 
-	"github.com/kless/shutil/file"
-	"github.com/kless/shutil/shconf"
-	"github.com/kless/sysuser"
+	"github.com/natedat/shutil/file"
+	"github.com/natedat/shutil/shconf"
+	sysuser "os/user"
 )
 
 var _IS_ROOT bool

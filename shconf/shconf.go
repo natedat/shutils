@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/kless/shutil/file"
+	"github.com/natedat/shutil/file"
 )
 
 var (
